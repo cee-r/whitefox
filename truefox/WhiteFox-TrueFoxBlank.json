@@ -22,8 +22,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "`",
-                    "label": "`"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -239,8 +239,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "`",
+                    "label": "`"
                 }
             }
         },
@@ -252,8 +252,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },

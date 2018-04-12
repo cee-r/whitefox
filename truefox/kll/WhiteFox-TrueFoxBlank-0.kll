@@ -10,7 +10,7 @@ Generator = "KIICONF 0.2";
 
 
 
-U"ESC" : U"`";
+U"ESC" : U"ESCAPE";
 U"1" : U"1";
 U"2" : U"2";
 U"3" : U"3";
@@ -23,8 +23,8 @@ U"9" : U"9";
 U"0" : U"0";
 U"MINUS" : U"-";
 U"EQUAL" : U"=";
-U"BACKTICK" : U"BACKSPACE";
-U"BACKSLASH" : U"ESCAPE";
+U"BACKTICK" : U"`";
+U"BACKSLASH" : U"BACKSPACE";
 U"PRINTSCREEN" : U"PRINTSCREEN";
 U"TAB" : U"TAB";
 U"Q" : U"Q";
