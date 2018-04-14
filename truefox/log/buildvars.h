@@ -53,7 +53,7 @@
 #define CLI_CommitDate          "2018-04-08 20:42:09 -0700"
 #define CLI_CommitAuthor        "Jacob Alexander <haata@kiibohd.com>"
 #define CLI_Modules             "Scan(WhiteFox:truefox) Macro(PixelMap) Output(USB) Debug(full)"
-#define CLI_BuildDate           "2018-04-12 01:00:24 +0000"
+#define CLI_BuildDate           "2018-04-14 22:57:51 +0000"
 #define CLI_BuildOS             "Ubuntu 14.04.5 LTS trusty"
 #define CLI_BuildCompiler       "/usr/bin/arm-none-eabi-gcc "
 #define CLI_Arch                "arm"
